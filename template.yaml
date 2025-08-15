@@ -16,18 +16,18 @@ image: https://denkiwakame.github.io/academic-project-template/teaser.jpg
 url: https://denkiwakame.github.io/academic-project-template
 speakerdeck: # speakerdeck slide ID
 authors:
-  - name: Wakame Denki*
+  - name: Hao Sun*
+    affiliation: [1]
+    #url: http://denkiwakame.github.io/
+    position: Researcher
+  - name: Qi Jiang
     affiliation: [1, 2]
-    url: http://denkiwakame.github.io/
-    position: intern
-  - name: Jane Doe
-    affiliation: [1]
-    position: Researcher
-    url: https://thispersondoesnotexist.com/
-  - name: John Smith
-    affiliation: [1]
-    position: Researcher
-    url: https://thispersondoesnotexist.com/
+    position: Research Intern
+    #url: https://thispersondoesnotexist.com/
+#  - name: John Smith
+#    affiliation: [1]
+#    position: Researcher
+#    url: https://thispersondoesnotexist.com/
 affiliations:
   - Pixel Genius Labs
   - NeuroNauts Academy
