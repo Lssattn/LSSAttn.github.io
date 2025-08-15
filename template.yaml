@@ -1,5 +1,5 @@
 theme: default # default || classic || dark
-organization: Pixel Genius Labs
+organization:
 twitter: '@denkivvakame'
 title: 'LSSAttn: Towards Dense and Accurate View Transformation for Multi-modal 3D Object Detection'
 journal: "ICRA'24 ACCEPTED"
